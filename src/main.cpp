@@ -3,8 +3,8 @@
 #include <hyprland/src/helpers/Color.hpp>
 #include <hyprland/src/helpers/MiscFunctions.hpp>
 #include <hyprland/src/desktop/Workspace.hpp>
-#include <hyprland/src/debug/Log.hpp>
-#include <hyprland/src/events/Events.hpp>
+#include <hyprland/src/debug/log/Logger.hpp>
+// #include <hyprland/src/events/Events.hpp>
 
 #include "globals.hpp"
 #include "VirtualDeskManager.hpp"
